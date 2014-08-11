@@ -38,5 +38,5 @@ npm install
 grunt
 ```
 
-7) Visit localhost:9000 to see webpage.
+7) Visit localhost:8000 to see webpage.
 
