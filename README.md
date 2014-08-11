@@ -40,3 +40,9 @@ grunt
 
 7) Visit localhost:8000 to see webpage.
 
+## Configure Text Editor.
+1. Use 2 spaces of Indentation.
+2. Use spaces. No Tabs.
+3. No trailing whitespaces.
+4. Use Unix style line endings.
+5. Empty new line at the end of the file.
