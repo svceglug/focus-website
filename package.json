@@ -1,0 +1,19 @@
+{
+  "name": "focus-website",
+  "version": "0.0.0",
+  "description": "Website for Sri Venkateshwara College of Engineering GNU/Linux User Group",
+  "main": "public/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svceglug/focus-website"
+  },
+  "bugs": {
+    "url": "https://github.com/svceglug/focus-website/issues"
+  },
+  "homepage": "https://github.com/svceglug/focus-website",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
